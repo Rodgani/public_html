@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.1-dev (f9311a1, 2019-12-25)"
+   sodipodi:docname="fahrzeugverkauf-qualitaet.svg"
+   id="svg26"
+   version="1.1"
+   fill="#6667ac"
+   width="347.45441pt"
+   viewBox="-63 0 346.77579 473.8064"
+   height="473.8064pt">
+  <metadata
+     id="metadata32">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs30" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg26"
+     inkscape:window-maximized="1"
+     inkscape:window-y="25"
+     inkscape:window-x="0"
+     inkscape:cy="87.268688"
+     inkscape:cx="66.598725"
+     inkscape:zoom="0.89218441"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     showgrid="false"
+     id="namedview28"
+     inkscape:window-height="1387"
+     inkscape:window-width="2560"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     inkscape:document-rotation="0"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <path
+     sodipodi:nodetypes="scscsssscssscsssccccccscssssccccsssccccccc"
+     inkscape:connector-curvature="0"
+     id="path24"
+     d="M 242.22539,37.410606 166.79961,36.763257 C 158.5418,13.482007 136.29961,0 110.22539,0 84.151166,0 62.330491,10.144972 54.072681,33.426222 h -76.199946 c -33.085938,0 -41.287737,13.420089 -41.22689,46.505972 l 0.647349,352.000006 c 0.06085,33.08588 6.846352,41.14628 39.932192,41.22688 l 265.709854,0.64735 c 33.05078,-0.0351 40.45648,-9.47085 40.51704,-42.52158 l 0.64735,-353.294704 c 0.0606,-33.085882 -8.78952,-40.295587 -41.87424,-40.57954 z M 73.168488,59.284843 73.394325,35.10969 c 0.10301,-11.026863 25.803729,-15.824846 36.831065,-15.824846 11.02734,0 33.3957,8.617497 33.23804,19.643713 l 0.29106,19.774164 31.12788,0.873185 0.29107,38.70894 H 44.404156 V 58.993782 Z M 262.22539,431.28485 c 0,11.01562 -8.96484,19.98828 -19.95703,20 H -22.774614 c -11.027344,0 -20,-8.97266 -20,-20 V 79.284844 c 0,-11.027344 8.972656,-20 20,-20 l 47.88902,0.06523 0.486732,54.666556 170.156752,0.0652 -0.58213,-54.50595 47.04963,-0.291062 c 11.02713,-0.06822 20,8.972656 20,20 z M 192.25856,213.208 l 23.75589,23.03779 -128.089844,140.75 -84.6054703,-81.83594 23.2810603,-23.57121 57.55423,60.28489 z" />
+</svg>

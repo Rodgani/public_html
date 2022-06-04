@@ -1,0 +1,27 @@
+.example-modal .modal {
+  position: relative;
+  top: auto;
+  bottom: auto;
+  right: auto;
+  left: auto;
+  display: block;
+  z-index: 1;
+}
+
+.example-modal .modal {
+  background: transparent !important;
+}
+
+.add-new-menu,
+.add-new-recipes {
+  padding: 10px 20px;
+  background-color: black;
+  color: #ffffff;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+#all_menu,
+#all_recipes {
+  background-color: #ffffff;
+}
